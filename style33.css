@@ -1,0 +1,54 @@
+* {
+  transition: all 0.3s ease-in;
+}
+.icon1 {
+  width: 64px;
+  height: 64px;
+  border: 1px solid #1275b9;
+  background: white url("Images/123.png") center center no-repeat;
+  border-radius: 50%;
+  color: white;
+  margin-left: 160px;
+}
+.icon2 {
+  width: 64px;
+  height: 64px;
+  border: 1px solid #1275b9;
+  background: #1275b9 url("Images/124.png") center center no-repeat;
+  border-radius: 50%;
+  margin-left: 160px;
+}
+.icon3 {
+  width: 64px;
+  height: 64px;
+  border: 1px solid #1275b9;
+  background: #1275b9 url("Images/125.png") center center no-repeat;
+  border-radius: 50%;
+  margin-left: 160px;
+}
+.icon1:hover {
+  background-color: #2a69a6;
+}
+
+.icon2:hover {
+  background-color: white;
+}
+
+.icon3:hover {
+  background-color: white;
+}
+tr {
+  display: inline-block;
+  margin-left: 350px;
+  margin-top: 50px;
+  width: 1500px;
+}
+td {
+  width: 400px;
+  height: 250px;
+  text-align: center;
+  padding: 0;
+}
+p {
+  text-align: center;
+}
